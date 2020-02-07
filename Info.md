@@ -32,6 +32,7 @@ We present a synthetic dataset generated using the simulator called PaySim as an
 * Krishna Vanvari
 
 ### GITHUB PROFILE 
-* https://github.com/ayushiarora
-* https://github.com/ashwinigore9070 
+
+* https://github.com/ashwinigore9070
+* https://github.com/ayushiarora 
 * https://github.com/krishnavanvari
